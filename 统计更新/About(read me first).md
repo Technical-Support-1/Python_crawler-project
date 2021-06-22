@@ -6,7 +6,7 @@
 
 项目地址：Github地址: https://github.com/Technical-Support-1/Python_crawler-project/tree/main/%E7%BB%9F%E8%AE%A1%E6%9B%B4%E6%96%B0
 
-国内Gitee地址：
+国内Gitee地址：https://gitee.com/technical-support-1/Python_crawler-project/tree/main/%E7%BB%9F%E8%AE%A1%E6%9B%B4%E6%96%B0
 
 # 使用指南
 
@@ -77,7 +77,6 @@
 12、如何查看headers?
 
 打开您的谷歌浏览器，打开任意界面（推荐https://www.bilibili.com ），右击空白处，点“检查”，点击上方选项卡里的Network，之后按Ctrl+R刷新界面，点击主数据包（一般是最上面的那个），点击中间选项卡中的headers，拉到最下方，有一个"User_Agent"值，右击，点击"Copy value"，之后填入程序中headers后面字典的值（第二个）位置即可（这是一个字符串，不要漏掉符号。）
-
 
 （完整版请见视频：）
 
