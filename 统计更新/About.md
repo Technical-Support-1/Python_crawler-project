@@ -15,8 +15,8 @@ Gitee地址：
 
 1、如果您对Python语法有一定的了解，您可以在以下字段内填充您想要的UID号：
 
-`UID1 = \n
-UID2 = \n
-UID3 = \n
-UID4 = \n
-UID5 =    #指定UID 来统计（填数字即可）`
+`UID1 = \n`
+`UID2 = \n`
+`UID3 = \n`
+`UID4 = \n`
+`UID5 =    #指定UID 来统计（填数字即可）`
