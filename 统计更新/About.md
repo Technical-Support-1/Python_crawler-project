@@ -17,7 +17,7 @@ Gitee地址：
 
 `UID1 = `
 
-`UID2 = \`
+`UID2 = `
 
 `UID3 = `
 
