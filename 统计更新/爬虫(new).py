@@ -24,7 +24,7 @@ UID5 = input("UID:")
 """
 # 如果不熟悉代码，可以直接把上面两组 三个（一共六个）双引号去掉，之后就可以直接输入了。
 
-headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"}
+headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3100.0 Safari/537.36"}
 # 指定伪装头（建议填自己的）
 
 with open("更新统计1.txt","a",encoding="utf-8") as fp:
