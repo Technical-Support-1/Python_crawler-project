@@ -60,18 +60,16 @@
     UID7 = 
 接着，请在代码末尾（while True循环内）加入如下语句：
 
-    ~~get_main(UID6)~~
+    get_main(UID6,test_for_uploaders.count(UID6))
     
     
-    ~~get_main(UID7)~~
+    get_main(UID7,test_for_uploaders.count(UID7))
 
 
 之后，您加入的UID号就会被检测。
 
 
-11、当程序检测到UP主更新后，其将自动退出。这时，您需要首先定位更新UP主的UID是第几个。之后，在其对应的get_main(变量名)前加 # 号，示例如下：
-
-假设更新UP主的UID是第三个（程序中为UID3），那么，程序中倒数第3行 `get_main(UID3)` 就应当改为 `# get_main(UID3)`，此时，该语句已不被执行，因而您可以将其删除。（但不推荐直接删除）
+11、当程序检测到UP主更新后，程序会生成一个可视化窗口以提醒您UP主已经更新。此时，您只需要关闭弹窗即可。程序将继续运行并停止监测已经更新的UP主。
 
 
 12、如何查看headers?
