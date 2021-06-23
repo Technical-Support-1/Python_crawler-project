@@ -60,10 +60,10 @@
     UID7 = 
 接着，请在代码末尾（while True循环内）加入如下语句：
 
-    get_main(UID6)
+    ~~get_main(UID6)~~
     
     
-    get_main(UID7)
+    ~~get_main(UID7)~~
 
 
 之后，您加入的UID号就会被检测。
