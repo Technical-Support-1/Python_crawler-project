@@ -10,7 +10,7 @@
 
 # 使用指南
 
-（完整版请见视频：）
+（完整版请见视频：https://www.bilibili.com/video/BV1Jg41137oq）
 
 这是一个可以帮你监测UP主是否更新的爬虫程序。
 
@@ -78,6 +78,6 @@
 
 打开您的谷歌浏览器，打开任意界面（推荐https://www.bilibili.com ），右击空白处，点“检查”，点击上方选项卡里的Network，之后按Ctrl+R刷新界面，点击主数据包（一般是最上面的那个），点击中间选项卡中的headers，拉到最下方，有一个"User_Agent"值，右击，点击"Copy value"，之后填入程序中headers后面字典的值（第二个）位置即可（这是一个字符串，不要漏掉符号。）
 
-（完整版请见视频：）
+（完整版请见视频：https://www.bilibili.com/video/BV1Jg41137oq）
 
 祝使用愉快！
